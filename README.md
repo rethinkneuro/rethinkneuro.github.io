@@ -1,9 +1,10 @@
+# Rethink Neuro
 
-We are a support service that specializes in providing emotional and practical support to families of neurodiverse children. Our goal is to help families better understand their child's unique needs and strengths, and to provide the tools and strategies needed to support their child's development and well-being.
+We are a support service that specialises in helping families of neurodiverse children navigate the unique challenges they may face. Our goal is to provide the guidance, resources, and support needed to help each child reach their full potential.
 
 Our services include:
 
-- One-on-one coaching: Personalized coaching with our team of experts, who will work with families to develop the skills and strategies they need to support their neurodiverse child.
+- One-on-one coaching: Personalised coaching with our team of experts, who will work with families to develop the skills and strategies they need to support their neurodiverse child.
 
 - Workshops and training: Educational workshops and training sessions for parents, educators, and other professionals who work with neurodiverse individuals.
 

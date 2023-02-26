@@ -1,0 +1,10 @@
+# Site settings
+title: Rethink Neuro
+description: A consultancy that specializes in teaching parents about their neurodiverse child.
+
+# Build settings
+theme: minima
+
+# Jakyll plugins
+plugins:
+  - jekyll-feed

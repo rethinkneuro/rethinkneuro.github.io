@@ -2,6 +2,9 @@
 title: Rethink Neuro
 description: A support service that specialises in helping families of neurodiverse children navigate the unique challenges they may face, with a focus on supporting growth and understanding.
 
+show_title: false
+
+
 # Build settings
 theme: minima
 

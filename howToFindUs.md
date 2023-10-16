@@ -1,6 +1,7 @@
 ---
 title: How to Find Us
 layout: page
+permalink: /findus/
 ---
 
 # How to Find Us

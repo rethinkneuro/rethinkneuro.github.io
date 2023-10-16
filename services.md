@@ -4,6 +4,9 @@ title: Services
 permalink: /services/
 ---
 
+![Rethink Neuro](example image.png)
+
+
 # Our Services
 
 At Rethink Neuro, we specialise in providing guidance and support to families of neurodiverse children. Our team of experts is dedicated to helping families navigate the unique challenges that neurodiverse children may face, and to supporting each child's growth and development.
